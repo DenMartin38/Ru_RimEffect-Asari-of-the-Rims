@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Asari Civilians -->
+
+  <AsariColonist01.label>житель</AsariColonist01.label>
+  <AsariColonist01.labelPlural>жители</AsariColonist01.labelPlural>
+  <AsariColonist01.labelMale>житель</AsariColonist01.labelMale>
+  <AsariColonist01.labelMalePlural>житель</AsariColonist01.labelMalePlural>
+  <AsariColonist01.labelFemale>жительница</AsariColonist01.labelFemale>
+  <AsariColonist01.labelFemalePlural>жители</AsariColonist01.labelFemalePlural>
+
+  <AsariColonist02.label>житель</AsariColonist02.label>
+  <AsariColonist02.labelPlural>жители</AsariColonist02.labelPlural>
+  <AsariColonist02.labelMale>житель</AsariColonist02.labelMale>
+  <AsariColonist02.labelMalePlural>жители</AsariColonist02.labelMalePlural>
+  <AsariColonist02.labelFemale>жительница</AsariColonist02.labelFemale>
+  <AsariColonist02.labelFemalePlural>жители</AsariColonist02.labelFemalePlural>
+
+  <AsariColonist03.label>житель</AsariColonist03.label>
+  <AsariColonist03.labelPlural>жители</AsariColonist03.labelPlural>
+  <AsariColonist03.labelMale>житель</AsariColonist03.labelMale>
+  <AsariColonist03.labelMalePlural>жители</AsariColonist03.labelMalePlural>
+  <AsariColonist03.labelFemale>жительница</AsariColonist03.labelFemale>
+  <AsariColonist03.labelFemalePlural>жители</AsariColonist03.labelFemalePlural>
+
+  <AsariMatriarch.label>матриарх</AsariMatriarch.label>
+  <AsariMatriarch.labelPlural>матриархи</AsariMatriarch.labelPlural>
+  <AsariMatriarch.labelMale>матриарх</AsariMatriarch.labelMale>
+  <AsariMatriarch.labelMalePlural>матриархи</AsariMatriarch.labelMalePlural>
+  <AsariMatriarch.labelFemale>матриарх</AsariMatriarch.labelFemale>
+  <AsariMatriarch.labelFemalePlural>матриархи</AsariMatriarch.labelFemalePlural>
+
+  <AsariTrader01.label>торговец</AsariTrader01.label>
+  <AsariTrader01.labelPlural>торговцы</AsariTrader01.labelPlural>
+  <AsariTrader01.labelMale>торговец</AsariTrader01.labelMale>
+  <AsariTrader01.labelMalePlural>торговцы</AsariTrader01.labelMalePlural>
+  <AsariTrader01.labelFemale>торговец</AsariTrader01.labelFemale>
+  <AsariTrader01.labelFemalePlural>торговцы</AsariTrader01.labelFemalePlural>
+
+  <AsariTrader02.label>торговец</AsariTrader02.label>
+  <AsariTrader02.labelPlural>торговцы</AsariTrader02.labelPlural>
+  <AsariTrader02.labelMale>торговец</AsariTrader02.labelMale>
+  <AsariTrader02.labelMalePlural>торговцы</AsariTrader02.labelMalePlural>
+  <AsariTrader02.labelFemale>торговец</AsariTrader02.labelFemale>
+  <AsariTrader02.labelFemalePlural>торговцы</AsariTrader02.labelFemalePlural>
+
+  <AsariTrader03.label>торговец</AsariTrader03.label>
+  <AsariTrader03.labelPlural>торговцы</AsariTrader03.labelPlural>
+  <AsariTrader03.labelMale>торговец</AsariTrader03.labelMale>
+  <AsariTrader03.labelMalePlural>торговцы</AsariTrader03.labelMalePlural>
+  <AsariTrader03.labelFemale>торговец</AsariTrader03.labelFemale>
+  <AsariTrader03.labelFemalePlural>торговцы</AsariTrader03.labelFemalePlural>
+
+
+  <!-- Asari Security -->
+
+  <AsariSecurityGuard01.label>охранник</AsariSecurityGuard01.label>
+  <AsariSecurityGuard01.labelPlural>охранники</AsariSecurityGuard01.labelPlural>
+  <AsariSecurityGuard01.labelMale>охранник</AsariSecurityGuard01.labelMale>
+  <AsariSecurityGuard01.labelMalePlural>охранники</AsariSecurityGuard01.labelMalePlural>
+  <AsariSecurityGuard01.labelFemale>охранник</AsariSecurityGuard01.labelFemale>
+  <AsariSecurityGuard01.labelFemalePlural>охранники</AsariSecurityGuard01.labelFemalePlural>
+
+  <AsariSecurityGuard02.label>охранник</AsariSecurityGuard02.label>
+  <AsariSecurityGuard02.labelPlural>охранники</AsariSecurityGuard02.labelPlural>
+  <AsariSecurityGuard02.labelMale>охранник</AsariSecurityGuard02.labelMale>
+  <AsariSecurityGuard02.labelMalePlural>охранники</AsariSecurityGuard02.labelMalePlural>
+  <AsariSecurityGuard02.labelFemale>охранник</AsariSecurityGuard02.labelFemale>
+  <AsariSecurityGuard02.labelFemalePlural>охранники</AsariSecurityGuard02.labelFemalePlural>
+
+  <AsariSecurityGuard03.label>охранник</AsariSecurityGuard03.label>
+  <AsariSecurityGuard03.labelPlural>охранники</AsariSecurityGuard03.labelPlural>
+  <AsariSecurityGuard03.labelMale>охранник</AsariSecurityGuard03.labelMale>
+  <AsariSecurityGuard03.labelMalePlural>охранники</AsariSecurityGuard03.labelMalePlural>
+  <AsariSecurityGuard03.labelFemale>охранник</AsariSecurityGuard03.labelFemale>
+  <AsariSecurityGuard03.labelFemalePlural>охранники</AsariSecurityGuard03.labelFemalePlural>
+
+
+  <!-- Asari Military -->
+
+  <AsariRecruit01.label>новобранец</AsariRecruit01.label>
+  <AsariRecruit01.labelPlural>новобранцы</AsariRecruit01.labelPlural>
+  <AsariRecruit01.labelMale>новобранец</AsariRecruit01.labelMale>
+  <AsariRecruit01.labelMalePlural>новобранцы</AsariRecruit01.labelMalePlural>
+  <AsariRecruit01.labelFemale>новобранец</AsariRecruit01.labelFemale>
+  <AsariRecruit01.labelFemalePlural>новобранцы</AsariRecruit01.labelFemalePlural>
+
+  <AsariRecruit02.label>новобранец</AsariRecruit02.label>
+  <AsariRecruit02.labelPlural>новобранцы</AsariRecruit02.labelPlural>
+  <AsariRecruit02.labelMale>новобранец</AsariRecruit02.labelMale>
+  <AsariRecruit02.labelMalePlural>новобранцы</AsariRecruit02.labelMalePlural>
+  <AsariRecruit02.labelFemale>новобранец</AsariRecruit02.labelFemale>
+  <AsariRecruit02.labelFemalePlural>новобранцы</AsariRecruit02.labelFemalePlural>
+
+  <AsariRecruit03.label>новобранец</AsariRecruit03.label>
+  <AsariRecruit03.labelPlural>новобранцы</AsariRecruit03.labelPlural>
+  <AsariRecruit03.labelMale>новобранец</AsariRecruit03.labelMale>
+  <AsariRecruit03.labelMalePlural>новобранцы</AsariRecruit03.labelMalePlural>
+  <AsariRecruit03.labelFemale>новобранец</AsariRecruit03.labelFemale>
+  <AsariRecruit03.labelFemalePlural>новобранцы</AsariRecruit03.labelFemalePlural>
+
+  <AsariHuntresses01.label>охотница</AsariHuntresses01.label>
+  <AsariHuntresses01.labelPlural>охотницы</AsariHuntresses01.labelPlural>
+  <AsariHuntresses01.labelMale>охотница</AsariHuntresses01.labelMale>
+  <AsariHuntresses01.labelMalePlural>охотницы</AsariHuntresses01.labelMalePlural>
+  <AsariHuntresses01.labelFemale>охотница</AsariHuntresses01.labelFemale>
+  <AsariHuntresses01.labelFemalePlural>охотницы</AsariHuntresses01.labelFemalePlural>
+
+  <AsariHuntresses02.label>охотница</AsariHuntresses02.label>
+  <AsariHuntresses02.labelPlural>охотницы</AsariHuntresses02.labelPlural>
+  <AsariHuntresses02.labelMale>охотница</AsariHuntresses02.labelMale>
+  <AsariHuntresses02.labelMalePlural>охотницы</AsariHuntresses02.labelMalePlural>
+  <AsariHuntresses02.labelFemale>охотница</AsariHuntresses02.labelFemale>
+  <AsariHuntresses02.labelFemalePlural>охотницы</AsariHuntresses02.labelFemalePlural>
+
+  <AsariHuntresses03.label>охотница</AsariHuntresses03.label>
+  <AsariHuntresses03.labelPlural>охотницы</AsariHuntresses03.labelPlural>
+  <AsariHuntresses03.labelMale>охотница</AsariHuntresses03.labelMale>
+  <AsariHuntresses03.labelMalePlural>охотницы</AsariHuntresses03.labelMalePlural>
+  <AsariHuntresses03.labelFemale>охотница</AsariHuntresses03.labelFemale>
+  <AsariHuntresses03.labelFemalePlural>охотницы</AsariHuntresses03.labelFemalePlural>
+
+  <AsariCommando01.label>коммандос</AsariCommando01.label>
+  <AsariCommando01.labelPlural>коммандос</AsariCommando01.labelPlural>
+  <AsariCommando01.labelMale>коммандос</AsariCommando01.labelMale>
+  <AsariCommando01.labelMalePlural>коммандос</AsariCommando01.labelMalePlural>
+  <AsariCommando01.labelFemale>коммандос</AsariCommando01.labelFemale>
+  <AsariCommando01.labelFemalePlural>коммандос</AsariCommando01.labelFemalePlural>
+
+  <AsariCommando02.label>коммандос</AsariCommando02.label>
+  <AsariCommando02.labelPlural>коммандос</AsariCommando02.labelPlural>
+  <AsariCommando02.labelMale>коммандос</AsariCommando02.labelMale>
+  <AsariCommando02.labelMalePlural>коммандос</AsariCommando02.labelMalePlural>
+  <AsariCommando02.labelFemale>коммандос</AsariCommando02.labelFemale>
+  <AsariCommando02.labelFemalePlural>коммандос</AsariCommando02.labelFemalePlural>
+
+  <AsariCommando03.label>коммандос</AsariCommando03.label>
+  <AsariCommando03.labelPlural>коммандос</AsariCommando03.labelPlural>
+  <AsariCommando03.labelMale>коммандос</AsariCommando03.labelMale>
+  <AsariCommando03.labelMalePlural>коммандос</AsariCommando03.labelMalePlural>
+  <AsariCommando03.labelFemale>коммандос</AsariCommando03.labelFemale>
+  <AsariCommando03.labelFemalePlural>коммандос</AsariCommando03.labelFemalePlural>
+
+  <AsariCommandoElite01.label>элитный коммандос</AsariCommandoElite01.label>
+  <AsariCommandoElite01.labelPlural>элитный коммандос</AsariCommandoElite01.labelPlural>
+  <AsariCommandoElite01.labelMale>элитный коммандос</AsariCommandoElite01.labelMale>
+  <AsariCommandoElite01.labelMalePlural>элитный коммандос</AsariCommandoElite01.labelMalePlural>
+  <AsariCommandoElite01.labelFemale>элитный коммандос</AsariCommandoElite01.labelFemale>
+  <AsariCommandoElite01.labelFemalePlural>элитный коммандос</AsariCommandoElite01.labelFemalePlural>
+
+  <AsariCommandoElite02.label>элитный коммандос</AsariCommandoElite02.label>
+  <AsariCommandoElite02.labelPlural>элитный коммандос</AsariCommandoElite02.labelPlural>
+  <AsariCommandoElite02.labelMale>элитный коммандос</AsariCommandoElite02.labelMale>
+  <AsariCommandoElite02.labelMalePlural>элитный коммандос</AsariCommandoElite02.labelMalePlural>
+  <AsariCommandoElite02.labelFemale>элитный коммандос</AsariCommandoElite02.labelFemale>
+  <AsariCommandoElite02.labelFemalePlural>элитный коммандос</AsariCommandoElite02.labelFemalePlural>
+
+  <AsariCommandoElite03.label>элитный коммандос</AsariCommandoElite03.label>
+  <AsariCommandoElite03.labelPlural>элитный коммандос</AsariCommandoElite03.labelPlural>
+  <AsariCommandoElite03.labelMale>элитный коммандос</AsariCommandoElite03.labelMale>
+  <AsariCommandoElite03.labelMalePlural>элитный коммандос</AsariCommandoElite03.labelMalePlural>
+  <AsariCommandoElite03.labelFemale>элитный коммандос</AsariCommandoElite03.labelFemale>
+  <AsariCommandoElite03.labelFemalePlural>элитный коммандос</AsariCommandoElite03.labelFemalePlural>
+
+  <AsariCommandoElite04.label>элитный коммандос</AsariCommandoElite04.label>
+  <AsariCommandoElite04.labelPlural>элитный коммандос</AsariCommandoElite04.labelPlural>
+  <AsariCommandoElite04.labelMale>элитный коммандос</AsariCommandoElite04.labelMale>
+  <AsariCommandoElite04.labelMalePlural>элитный коммандос</AsariCommandoElite04.labelMalePlural>
+  <AsariCommandoElite04.labelFemale>элитный коммандос</AsariCommandoElite04.labelFemale>
+  <AsariCommandoElite04.labelFemalePlural>элитный коммандос</AsariCommandoElite04.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BabyStage.label>младенец</BabyStage.label>
+  <ChildStage.label>ребёнок</ChildStage.label>
+  <MaidenStage.label>дева</MaidenStage.label>
+  <MatronStage.label>матрона</MatronStage.label>
+  <MatriarchStage.label>матриарх</MatriarchStage.label>
+
+
+</LanguageData>

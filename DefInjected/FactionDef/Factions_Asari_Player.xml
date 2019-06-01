@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AsariPlayerColony.label>Колония Азари</AsariPlayerColony.label>
+  <AsariPlayerColony.description>Ваше собственное сообщество.</AsariPlayerColony.description>
+  <AsariPlayerColony.pawnsPlural>колонисты</AsariPlayerColony.pawnsPlural>
+
+  <AsariPlayerColonyTribal.label>Племя Азари</AsariPlayerColonyTribal.label>
+  <AsariPlayerColonyTribal.description>Племя азари.</AsariPlayerColonyTribal.description>
+  <AsariPlayerColonyTribal.pawnsPlural>колонисты</AsariPlayerColonyTribal.pawnsPlural>
+
+
+</LanguageData>
